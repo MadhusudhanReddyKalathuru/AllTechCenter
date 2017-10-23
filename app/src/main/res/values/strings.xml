@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AllTechCenter</string>
+    <string name="b1">Java2Novice</string>
+    <string name="b2">JavaTPoint</string>
+    <string name="b3">TutorialsPoint</string>
+    <string name="b4">W3Schools</string>
+    <string name="b5">MkYong</string>
+    <string name="b6">Coders Hub</string>
+    <string name="b7">Tutorial4us</string>
+    <string name="b8">InstanceOfJava</string>
+    <string name="b9">Tutorialslot</string>
+    <string name="b10">Java67</string>
+    <string name="b11">Udemy</string>
+    <string name="b12">vogella</string>
+    <string name="b13">Indiabix</string>
+</resources>
